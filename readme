@@ -1,1 +1,13 @@
+//todo: Translate comments and this file English
+
 jade шаблон админ панели adminlte переписаный на jade
+
+На основе https://github.com/srlopez/AdminLTExpress
+
+Который сделан на основе http://almsaeedstudio.com/preview
+
+По сравнению с оригинальным AdminLTExpress использована более новая версия adminlte
+Большинство функционала вырезано (оставлена только необходимая для работы часть)
+
+Конфигурирование панели производится через файл conf.jade
+
